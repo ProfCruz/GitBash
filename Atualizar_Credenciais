@@ -1,0 +1,6 @@
+Ao alternar entre contas GitHub no VSCode, na maioria dos casos é necessário realizar a atualização das credenciais no GitBash:
+Para atualizar o username:
+  $ git config --global user.name "seu_username"
+
+Para atualizar o e-mail:
+  $ git config --global user.email seu@email.com
